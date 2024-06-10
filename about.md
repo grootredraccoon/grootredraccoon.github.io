@@ -31,7 +31,10 @@ Global CPTC(Collegiate Penetration Testing Competition) 2020 - 1등, 팀장
 
 ➡  [<i class="fas fa-envelope fa-fw"></i> 이메일](mailto:choi@redraccoon.kr)<br> 
 
-**민(Min)**<br> 
+**민(Min)**<br>
+現 대기업 인하우스 레드팀 리더
+前 Big4 회계법인 Senior Consultant
+취약점 제보 이력 다수 보유
 ➡  [<i class="fas fa-envelope fa-fw"></i> 이메일](mailto:min@redraccoon.kr)<br> 
 
 🤝 레드라쿤 커뮤니티 참여하기<br>
