@@ -3,7 +3,7 @@ header:
   image: "/assets/images/Color logo - no background-1.png"
 title: About
 layout: single
-permalink: /about/
+permalink: /bhpt-강의-랩
 
 toc: true
 toc_label: "목차"
